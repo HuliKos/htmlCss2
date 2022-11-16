@@ -1,0 +1,39 @@
+#top{
+    height: 159px;
+    position: fixed;
+    left: 0;
+    right:0;
+    background-color: rgb(66, 65, 65)
+}
+
+
+#bottom{
+    height: 100px;
+    width: 74%;
+    position: fixed;
+    bottom: 0;
+    left: 13%;
+    background-color: rgb(24, 23, 23)
+}
+
+
+#left{
+    height: 80%;
+    width: 13%;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    background-color: rgb(229, 229, 229)
+}
+
+
+#right{
+    height: 80%;
+    width: 13%;
+    position:fixed;
+    bottom:0;
+    right:0;
+    background-color: rgb(229, 229, 229)
+}
+
+
